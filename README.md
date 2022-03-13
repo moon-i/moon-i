@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm android application developer
 
-STUDY NOTION LINK - https://elfin-fin-b6d.notion.site/STUDY-e9bfaa1204b446bbbcba718c9a1a49b4
-
 <!--
 **moon-i/moon-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
